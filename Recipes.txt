@@ -9,6 +9,15 @@ Recipe List :
    Snacks :
     1. Pizza
     2. Maggi
+    
+** this might be updated in next release so we can add these restaurant part in a new branch
+    
+Favourite Restaurants :
+   1. Haji Saheb
+   2. Aminia
+   3. Arsalan
 
+
+    
 Thanking you,
 Sahil
