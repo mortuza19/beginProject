@@ -6,6 +6,14 @@ Recipe List :
    Veg : 
     1. Pasta
     2. Chicken Korma
+    
+** this might be updated in next release so we can add these restaurant part in a new branch
+    
+Favourite Restaurants :
+   1. Haji Saheb
+   2. Aminia
+   3. Arsalan
+
 
 Thanking you,
 Sahil
