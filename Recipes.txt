@@ -1,9 +1,11 @@
 Welcome to my recipe channel. Below are the recipes I have in my youtube channel. Please like, comment and subscribe to it for further notification.
 
 Recipe List : 
-1. Kheer
-2. Pasta
-3. Chicken Korma
+   Non Veg : 
+    1. Chicken Korma
+   Veg : 
+    1. Pasta
+    2. Chicken Korma
 
 Thanking you,
 Sahil
