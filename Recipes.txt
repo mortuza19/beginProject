@@ -6,6 +6,9 @@ Recipe List :
    Veg : 
     1. Pasta
     2. Chicken Korma
+   Snacks :
+    1. Pizza
+    2. Maggi
     
 ** this might be updated in next release so we can add these restaurant part in a new branch
     
@@ -15,5 +18,6 @@ Favourite Restaurants :
    3. Arsalan
 
 
+    
 Thanking you,
 Sahil
